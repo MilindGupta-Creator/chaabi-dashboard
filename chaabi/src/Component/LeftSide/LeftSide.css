@@ -1,0 +1,39 @@
+.black-line {
+  position: absolute;
+  margin-top: 1.5rem;
+  margin-left: -10px;
+  width: 17.7%;
+  height: 2px;
+  background-color: rgb(129, 122, 122);
+}
+
+.first-item {
+  background-color: #0d62ff;
+  color: white;
+  width: auto;
+  height: 2rem;
+  border-radius: 5px 5px;
+}
+
+.left-container {
+  margin-top: 3rem;
+  margin-left: 10px;
+  height: 100vh;
+  width: 35%;
+  padding-right: 10px;
+}
+
+.container-bottom ul {
+  margin-top: 3rem;
+  list-style: none;
+  padding: 0px;
+}
+
+.container-bottom li {
+  display: flex;
+  padding: -11rem;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1.8rem;
+  height: 2rem;
+}
